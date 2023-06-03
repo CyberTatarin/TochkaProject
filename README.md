@@ -1,7 +1,7 @@
 # TochkaProject
 
-Мы в дерьме, дружище, хероку умер
+Всё плохо, дружище, хероку умер
 
 # upd
 
-Всё чётко, вот ссылка: https://magazin4ik.herokuapp.com/
+Всё хорошо, вот ссылка: https://magazin4ik.herokuapp.com/
